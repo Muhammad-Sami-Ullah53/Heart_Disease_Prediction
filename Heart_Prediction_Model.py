@@ -10,7 +10,7 @@ using Logistic Regression and Decision Tree Classifier.
 Dataset:
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-Author: Your Name
+Author: M Sami Ullah
 ===========================================================
 """
 
